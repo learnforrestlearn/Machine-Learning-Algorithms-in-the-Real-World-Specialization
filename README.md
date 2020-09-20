@@ -17,12 +17,11 @@
 
 
 ## MLPL is iterative/exploratory/empirical process 
-* 1: Business (big picture, stakeholders, objective) 
-* 2: Data pipeline (data gathering, ETL, split data, feature engineering) 
-* 3: ML model (model building, training, evalution) 
-* 4: Delivery (deployment)
-
-
-* Course 1, 2 - Phase 3
-* Course 3 - Phase 2
-* Course 4 - mostly about MLPL process Phase 1, 4.
+* Phase 1: Business (big picture, stakeholders, objective) 
+	* Course 4
+* Phase 2: Data pipeline (data gathering, ETL, split data, feature engineering) 
+	* Course 3
+* Phase 3: ML model (model building, training, evalution) 
+	* Course 1, 3
+* Phase 4: Delivery (deployment)
+	* Course 4
